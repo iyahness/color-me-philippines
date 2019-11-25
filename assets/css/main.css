@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Barabara';
+    src: local('Barabara'), url('../../assets/Barabara.otf') format('otf');
+}
+
+body {
+    font-family: 'Exo 2', sans-serif;
+}
